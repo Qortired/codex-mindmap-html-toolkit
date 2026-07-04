@@ -1,0 +1,12 @@
+*.pyc
+__pycache__/
+.DS_Store
+Thumbs.db
+*.html
+*.xmind
+*.log
+*.tmp
+*.bak
+release/
+test-output/
+*.apk

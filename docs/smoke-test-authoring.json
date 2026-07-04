@@ -1,0 +1,30 @@
+{
+  "title": "Codex Mindmap Smoke Test",
+  "root": {
+    "id": "root",
+    "title": "Codex Mindmap Smoke Test",
+    "children": [
+      {
+        "id": "workflow",
+        "title": "Workflow",
+        "children": [
+          { "title": "Author JSON" },
+          { "title": "Build HTML" },
+          { "title": "Recover XMind" }
+        ]
+      },
+      {
+        "title": "Navigation",
+        "children": [
+          { "title": "Search" },
+          { "title": "Expand and collapse" },
+          { "title": "Pan and zoom" }
+        ]
+      },
+      {
+        "title": "Jump back to workflow",
+        "link": "workflow"
+      }
+    ]
+  }
+}

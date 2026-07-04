@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mindmap HTML Authoring"
+  short_description: "Write HTML mind maps compatible with XMind recovery"
+  default_prompt: "Create a standalone HTML mind map from the provided content using the RAW_TREE schema."
