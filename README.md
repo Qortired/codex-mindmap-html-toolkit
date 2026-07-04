@@ -23,6 +23,13 @@ The intended experience is not just file conversion. It is a loop between
 natural-language guidance, Codex-assisted generation, optional manual editing
 in XMind, and lightweight mobile reading.
 
+## HTML Controls
+
+- Left mouse drag: pan normally when dragging on the background.
+- Middle mouse drag: pan from anywhere, including over images, text, and branches.
+- Mouse wheel: zoom in and out.
+- Click a branch node: expand or collapse that branch.
+
 Important boundaries:
 
 - This is not an official XMind project.

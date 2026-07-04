@@ -200,7 +200,7 @@ def build_html(tree: dict[str, Any], images: list[str], title: str) -> str:
 <div id="wrap">
   <div id="stage"><svg id="links"></svg></div>
 </div>
-<div id="tip">Wheel to zoom · Drag to pan · Click a node to expand or collapse</div>
+<div id="tip">Left-drag background to pan · Middle-drag anywhere to pan · Wheel to zoom · Click a branch to expand or collapse</div>
 <script>
 const IMG={json.dumps(images, ensure_ascii=False)};
 const RAW_TREE={json.dumps(tree, ensure_ascii=False)};

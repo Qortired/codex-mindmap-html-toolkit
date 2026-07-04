@@ -245,7 +245,7 @@ def build_html(
 <div id="wrap">
   <div id="stage"><svg id="links"></svg></div>
 </div>
-<div id="tip">Wheel to zoom · Drag to pan · Click a node to expand or collapse</div>
+<div id="tip">Left-drag background to pan · Middle-drag anywhere to pan · Wheel to zoom · Click a branch to expand or collapse</div>
 <script>
 const IMG={images_json};
 const RAW_TREE={tree_json};
